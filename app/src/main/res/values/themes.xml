@@ -1,0 +1,48 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AutoClicker" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/mainGreen</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+        <item name="android:buttonStyle">@style/buttons</item>
+        <item name="android:imageButtonStyle">@style/imageButtons</item>
+    </style>
+
+    <style name="imageButtons" parent="Widget.AppCompat.ImageButton">
+        <item name="background">@drawable/rounded_corners_with_stroke</item>
+    </style>
+
+    <style name="buttons" parent="Widget.AppCompat.Button">
+        <item name="android:backgroundTint">@color/mainGreen</item>
+        <item name="background">@drawable/round_green_shape</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style name="text" parent="Theme.AutoClicker">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/open_sans_semibold</item>
+
+    </style>
+
+    <style name="hints" parent="text">
+        <item name="android:fontFamily">@font/open_sans</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/hintsGray</item>
+    </style>
+
+    <style name="headline" parent="text">
+        <item name="android:textStyle">bold</item>
+        <item name="android:color">@color/black</item>
+    </style>//Helvetica
+
+
+</resources>
