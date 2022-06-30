@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ControlHelpFragment">
+
+    <TextView
+        android:id="@+id/textView32"
+        style="@style/hintsBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Настройки автокликера"
+        app:layout_constraintTop_toBottomOf="@+id/textView31"
+        tools:layout_editor_absoluteX="79dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/rounded_corners_with_stroke"
+        android:src="@drawable/ic_baseline_arrow_back_ios_24"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView5"
+        style="@style/headline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="Настройки"
+        app:layout_constraintBottom_toBottomOf="@+id/imageButton4"
+        app:layout_constraintStart_toEndOf="@+id/imageButton4"
+        app:layout_constraintTop_toTopOf="@+id/imageButton4" />
+
+    <TextView
+        android:id="@+id/textView27"
+        style="@style/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Боковая панель"
+        app:layout_constraintStart_toStartOf="@+id/imageButton4"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+    <TextView
+        android:id="@+id/textView28"
+        style="@style/hintsBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Запустить автокликер"
+        app:layout_constraintTop_toBottomOf="@+id/textView27"
+        tools:layout_editor_absoluteX="49dp" />
+
+    <TextView
+        android:id="@+id/textView29"
+        style="@style/hintsBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Остановить автокликер"
+        app:layout_constraintTop_toBottomOf="@+id/textView28"
+        tools:layout_editor_absoluteX="47dp" />
+
+    <TextView
+        android:id="@+id/textView30"
+        style="@style/hintsBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Нажмите, чтобы добавить цель щелчка Удерживайте, чтобы добавить цель смахивания"
+        app:layout_constraintTop_toBottomOf="@+id/textView29"
+        tools:layout_editor_absoluteX="51dp" />
+
+    <TextView
+        android:id="@+id/textView31"
+        style="@style/hintsBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Удалить последнюю добавленную цель"
+        app:layout_constraintTop_toBottomOf="@+id/textView30"
+        tools:layout_editor_absoluteX="54dp" />
+
+    <TextView
+        android:id="@+id/textView33"
+        style="@style/hintsBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Показать / скрыть целевые контроллеры"
+        app:layout_constraintTop_toBottomOf="@+id/textView32"
+        tools:layout_editor_absoluteX="69dp" />
+
+    <TextView
+        android:id="@+id/textView34"
+        style="@style/hintsBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Перейти на главный экран"
+        app:layout_constraintTop_toBottomOf="@+id/textView33"
+        tools:layout_editor_absoluteX="54dp" />
+
+    <TextView
+        android:id="@+id/textView35"
+        style="@style/hintsBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Закрыть автокликер"
+        app:layout_constraintTop_toBottomOf="@+id/textView34"
+        tools:layout_editor_absoluteX="56dp" />
+
+    <TextView
+        android:id="@+id/textView36"
+        style="@style/hintsBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Свернуть / развернуть боковую панель Удерживайте, чтобы перетащить боковую панель"
+        app:layout_constraintTop_toBottomOf="@+id/textView35"
+        tools:layout_editor_absoluteX="61dp" />
+
+    <LinearLayout
+        android:id="@+id/line"
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_marginTop="15dp"
+        android:background="@color/hintsGray"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView36" />
+
+    <TextView
+        android:id="@+id/textView37"
+        style="@style/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Управление курсором"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/line" />
+
+    <TextView
+        android:id="@+id/textView38"
+        style="@style/hintsBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:text="Нажмите, чтобы открыть настройки"
+        app:layout_constraintTop_toBottomOf="@+id/textView37"
+        tools:layout_editor_absoluteX="93dp" />
+
+    <TextView
+        android:id="@+id/textView39"
+        style="@style/hintsBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:text="Проведите виджет"
+        app:layout_constraintTop_toBottomOf="@+id/textView38"
+        tools:layout_editor_absoluteX="99dp" />
+
+    <TextView
+        android:id="@+id/textView40"
+        style="@style/hintsBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:text="Поставьте начальную точку"
+        app:layout_constraintTop_toBottomOf="@+id/textView39"
+        tools:layout_editor_absoluteX="90dp" />
+
+    <TextView
+        android:id="@+id/textView41"
+        style="@style/hintsBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:text="Поставьте конечную точку"
+        app:layout_constraintTop_toBottomOf="@+id/textView40"
+        tools:layout_editor_absoluteX="88dp" />
+
+    <TextView
+        android:id="@+id/textView42"
+        style="@style/hintsBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Незабудьте удерживать кнопку добавления, чтобы добавить виджет прокрутки. Продолжительность пролистывания может хорошо работать в диапазоне от 300 до 1500 миллисекунд"
+        app:layout_constraintTop_toBottomOf="@+id/textView41"
+        tools:layout_editor_absoluteX="74dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

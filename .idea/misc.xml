@@ -3,18 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/input_stroke_black_shape.xml" value="0.1665" />
         <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/round_green_shape.xml" value="0.2475" />
         <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/rounded_corners_with_stroke.xml" value="0.2045" />
         <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/activity_main.xml" value="0.171225937183384" />
         <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/delete_confirmation.xml" value="0.33" />
+        <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/empty.xml" value="0.25" />
         <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/first_goal_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/fragment_control_help.xml" value="0.33" />
         <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/fragment_introduction.xml" value="0.2" />
         <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/fragment_language_choice.xml" value="0.22" />
         <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/fragment_main.xml" value="0.2" />
         <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/fragment_privacy_policy.xml" value="0.33" />
-        <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/fragment_settings.xml" value="0.22" />
+        <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/fragment_saved_configurations.xml" value="0.25" />
+        <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/fragment_settings.xml" value="0.4260027662517289" />
         <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/language_choice_item.xml" value="0.22" />
         <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/new_configuration_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/saved_configuration_item.xml" value="0.33" />
+        <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/scroll_duration.xml" value="0.33" />
       </map>
     </option>
   </component>

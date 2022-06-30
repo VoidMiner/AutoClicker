@@ -39,6 +39,10 @@
         <item name="android:textColor">@color/hintsGray</item>
     </style>
 
+    <style name="hintsBlack" parent="hints">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
     <style name="headline" parent="text">
         <item name="android:textStyle">bold</item>
         <item name="android:color">@color/black</item>
