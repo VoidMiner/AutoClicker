@@ -5,9 +5,9 @@
     android:id="@+id/linearLayout3"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/white"
     android:paddingStart="20dp"
     android:paddingEnd="20dp"
-    android:background="@color/white"
     tools:context=".LanguageChoiceFragment">
 
 
@@ -46,22 +46,14 @@
         app:layout_constraintVertical_bias="0.0"
         tools:listitem="@layout/saved_configuration_item" />
 
-    <ImageView
-        android:id="@+id/imageView4"
+    <include
+        android:id="@+id/empty"
+        layout="@layout/empty"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/ic_empty"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
-    <TextView
-        android:id="@+id/textView44"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="TextView"
-        tools:layout_editor_absoluteX="169dp"
-        tools:layout_editor_absoluteY="415dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
