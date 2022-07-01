@@ -3,6 +3,52 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_baseline_expand_less_24.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_baseline_expand_more_24.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_baseline_navigate_next_24.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_baseline_question_mark_24.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_empty.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_frame_48095405.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_outline_smart_display_10.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_rectangle_10.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_rectangle_11.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_round_play_arrow_10.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_square_play.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_stroke_3.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/ic_targetsize.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/input_stroke_black_shape.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/round_green_shape.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/round_yellow_shape.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/rounded_corners_with_stroke.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/stroke_3.xml" value="0.2985" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/delete_confirmation.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/dialog_settings.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/empty.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/first_goal_dialog.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/fragment_control_help.xml" value="0.33" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/fragment_fix_error.xml" value="0.33" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/fragment_introduction.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/fragment_language_choice.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/fragment_main.xml" value="0.33" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/fragment_privacy_policy.xml" value="0.33" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/fragment_saved_configurations.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/fragment_settings.xml" value="0.33" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/interval.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/interval_dropdown_menu.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/language_choice_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/new_configuration_dialog.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/saved_configuration_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/scoll_duration_input.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/scroll_duration.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/SergeySDK/AndroidStudioProjects/AutoClicker/app/src/main/res/layout/time_block.xml" value="0.358695652173913" />
         <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/input_stroke_black_shape.xml" value="0.1665" />
         <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/round_green_shape.xml" value="0.2475" />
         <entry key="..\:/Users/andre/AndroidStudioProjects/AutoClicker/app/src/main/res/drawable/round_yellow_shape.xml" value="0.23" />
